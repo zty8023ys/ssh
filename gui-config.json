@@ -3,13 +3,20 @@
   {
 "server" : "45.58.54.172",
 "server_port" : 443,
-"password" : "ztyloveys",
+"password" : "cy5AuLojZrv2kpJ",
+"method" : "rc4-md5",
+"remarks" : ""}
+,
+  {
+"server" : "45.78.58.127",
+"server_port" : 443,
+"password" : "ZmZhMmJkMz",
 "method" : "rc4-md5",
 "remarks" : ""}
 
 ],
 "strategy" : null,
-"index" : 0,
+"index" : 1,
 "global" : false,
 "enabled" : true,
 "shareOverLan" : false,

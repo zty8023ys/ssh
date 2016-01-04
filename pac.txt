@@ -23,6 +23,7 @@ var rules = [
   "oldweb.today",
   "stencyl.com",
   "quora.com",
+  "howtoforge.com",
   "siteground.com",
   "aquaveo.com",
   "poe.trade",
